@@ -52,14 +52,6 @@ No external libraries are needed — just .NET 6+ and WinForms.
 
 ---
 
-## 📁 File Structure
-LogicGatesExam/
-├── Form1.cs # Main quiz logic and UI code
-├── Form1.Designer.cs # Auto-generated WinForms layout
-├── Program.cs # App startup logic
-└── README.md # This file
----
-
 ## 💡 Future Ideas
 
 - Add truth table visualizer
