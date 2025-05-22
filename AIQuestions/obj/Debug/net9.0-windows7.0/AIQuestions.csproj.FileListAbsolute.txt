@@ -1,0 +1,16 @@
+E:\projects\C#\external hard\AIQuestions\AIQuestions\bin\Debug\net9.0-windows7.0\AIQuestions.exe
+E:\projects\C#\external hard\AIQuestions\AIQuestions\bin\Debug\net9.0-windows7.0\AIQuestions.deps.json
+E:\projects\C#\external hard\AIQuestions\AIQuestions\bin\Debug\net9.0-windows7.0\AIQuestions.runtimeconfig.json
+E:\projects\C#\external hard\AIQuestions\AIQuestions\bin\Debug\net9.0-windows7.0\AIQuestions.dll
+E:\projects\C#\external hard\AIQuestions\AIQuestions\bin\Debug\net9.0-windows7.0\AIQuestions.pdb
+E:\projects\C#\external hard\AIQuestions\AIQuestions\obj\Debug\net9.0-windows7.0\AIQuestions.Form1.resources
+E:\projects\C#\external hard\AIQuestions\AIQuestions\obj\Debug\net9.0-windows7.0\AIQuestions.csproj.GenerateResource.cache
+E:\projects\C#\external hard\AIQuestions\AIQuestions\obj\Debug\net9.0-windows7.0\AIQuestions.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\C#\external hard\AIQuestions\AIQuestions\obj\Debug\net9.0-windows7.0\AIQuestions.AssemblyInfoInputs.cache
+E:\projects\C#\external hard\AIQuestions\AIQuestions\obj\Debug\net9.0-windows7.0\AIQuestions.AssemblyInfo.cs
+E:\projects\C#\external hard\AIQuestions\AIQuestions\obj\Debug\net9.0-windows7.0\AIQuestions.csproj.CoreCompileInputs.cache
+E:\projects\C#\external hard\AIQuestions\AIQuestions\obj\Debug\net9.0-windows7.0\AIQuestions.dll
+E:\projects\C#\external hard\AIQuestions\AIQuestions\obj\Debug\net9.0-windows7.0\refint\AIQuestions.dll
+E:\projects\C#\external hard\AIQuestions\AIQuestions\obj\Debug\net9.0-windows7.0\AIQuestions.pdb
+E:\projects\C#\external hard\AIQuestions\AIQuestions\obj\Debug\net9.0-windows7.0\AIQuestions.genruntimeconfig.cache
+E:\projects\C#\external hard\AIQuestions\AIQuestions\obj\Debug\net9.0-windows7.0\ref\AIQuestions.dll
